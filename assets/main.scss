@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+
+@font-face {
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Regular.otf");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Regular Italic.otf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Bold.otf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Bold Italic.otf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "DMMono";
+  src: url("fonts/DMMono-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DMMono";
+  src: url("fonts/DMMono-Medium.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
