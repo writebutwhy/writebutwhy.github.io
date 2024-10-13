@@ -1,7 +1,7 @@
 # Site settings
 title:          Nhat
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/blog"
+description:    ""
+baseurl:        "/write"
 url:            "https://nhatminhbui.github.io"
 
 # Google Analytics
@@ -9,7 +9,7 @@ url:            "https://nhatminhbui.github.io"
 
 # Author
 author:
-  name:         Nhat
+  name:         Nhat Bui
   url:          https://nhatminhbui.github.io
   email:        nhat@duck.com
 
