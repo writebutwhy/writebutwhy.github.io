@@ -13,7 +13,7 @@ $my-red: #DB0042 !default;
 
 // Fonts
 $sans-serif: Petrona, Arial, sans-serif !default;
-$monospaced: DMMono, monospace !default;
+$monospaced: Proxima, monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
