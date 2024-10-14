@@ -5,40 +5,40 @@
 @import 'tale';
 
 @font-face {
-  font-family: Proxima;
-  src: url("fonts/Proxima Nova Regular.otf");
+  font-family: "OldStandardTT";
+  src: url("fonts/OldStandardTT-Regular.ttf");
   font-style: normal;
 }
 
 @font-face {
-  font-family: Proxima;
-  src: url("fonts/Proxima Nova Regular Italic.otf");
+  font-family: "OldStandardTT";
+  src: url("fonts/OldStandardTT-Slanted.ttf");
   font-style: italic;
 }
 
 @font-face {
-  font-family: Proxima;
-  src: url("fonts/Proxima Nova Bold.otf");
+  font-family: "OldStandardTT";
+  src: url("fonts/OldStandardTT-Bold.ttf");
   font-weight: bold;
 }
 
 @font-face {
-  font-family: Proxima;
-  src: url("fonts/Proxima Nova Bold Italic.otf");
+  font-family: "OldStandardTT";
+  src: url("fonts/OldStandardTT-Italic.ttf");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
-  font-family: "DMMono";
-  src: url("fonts/DMMono-Light.ttf") format("truetype");
+  font-family: "Proxima";
+  src: url("fonts/Proxima Nova Regular.otf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "DMMono";
-  src: url("fonts/DMMono-Medium.ttf") format("truetype");
+  font-family: "Proxima";
+  src: url("fonts/Proxima Nova Bold.otf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
