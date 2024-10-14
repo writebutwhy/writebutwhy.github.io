@@ -7,40 +7,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100..900;1,100..900&display=swap');
 
 @font-face {
-  font-family: "OldStandardTT";
-  src: url("fonts/OldStandardTT-Regular.ttf");
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Regular.otf");
   font-style: normal;
 }
 
 @font-face {
-  font-family: "OldStandardTT";
-  src: url("fonts/OldStandardTT-Slanted.ttf");
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Regular Italic.otf");
   font-style: italic;
 }
 
 @font-face {
-  font-family: "OldStandardTT";
-  src: url("fonts/OldStandardTT-Bold.ttf");
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Bold.otf");
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "OldStandardTT";
-  src: url("fonts/OldStandardTT-Italic.ttf");
+  font-family: Proxima;
+  src: url("fonts/Proxima Nova Bold Italic.otf");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
-  font-family: "Proxima";
-  src: url("fonts/Proxima Nova Regular.otf") format("truetype");
+  font-family: "DMMono";
+  src: url("fonts/DMMono-Light.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Proxima";
-  src: url("fonts/Proxima Nova Bold.otf") format("truetype");
+  font-family: "DMMono";
+  src: url("fonts/DMMono-Medium.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
