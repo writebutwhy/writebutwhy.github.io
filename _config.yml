@@ -1,5 +1,5 @@
 # Site settings
-title:          "nhật"
+title:          Nhat
 description:    ""
 baseurl:        "/write"
 url:            "https://nhatminhbui.github.io"
@@ -9,7 +9,7 @@ url:            "https://nhatminhbui.github.io"
 
 # Author
 author:
-  name:         Nhat Bui
+  name:         Nhat
   url:          https://nhatminhbui.github.io
   email:        nhatbui@gmx.com
 
