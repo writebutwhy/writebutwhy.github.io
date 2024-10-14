@@ -1,9 +1,7 @@
 <footer>
-	<small>
-	<p align="center">
+	<p align="center" id="#footnote">
 		Nếu thích những gì tôi viết, hãy mua hoặc tặng 20.000 cho một người bán dạo mà bạn gặp trên đường hôm nay
 	</p>
-	</small>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 	 <script src="https://malsup.github.io/jquery.form.js"></script> 
@@ -18,10 +16,14 @@
 	    </script>
 	    
 	   <style>
-@import url('https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100..900;1,100..900&display=swap');
+
+#footnote {
+	font-family: "Proxima", monospace;
+	font-size: small;
+}
 
 #subscription {
-  margin: 40px 0 50px;
+  margin: 40px 0 -30px;
 }
 
 #email-box {
@@ -32,11 +34,11 @@
   padding: 13px;
   background: white;
   border-radius: 10px;
-	border-color: bisque;
+border-color: #aaa;
   color: #353f4d;
   text-align: center;
   transition: .6s;
-  font-family: 'Proxima', serif;
+  font-family: 'Proxima', monospace;
   font-size: 18px;
 }
 
@@ -55,7 +57,7 @@
  position: relative;
  border: none;
  font-size: 18px;
- font-family: inherit;
+ font-family: "Proxima", monospace;
  color: #fff;
  width: 11.4em;
  height: 2.4em;
@@ -125,12 +127,12 @@
 	  action="https://script.google.com/macros/s/AKfycbwOLBIcuzWE8t77bd3tRzLpJbhwI0Q875bf42mKWJ1mwyYL4DTZS3vt0Y4afNG348En/exec"
 	>
 	  <input name="Email" type="email" placeholder="Email" id="email-box" required>
-	  <button type="submit" id="submit">Đăng ký</button>
+	  <button type="submit" id="submit">Đăng ký nhận tin</button>
 	</form>
 	<br />
 	<small>
 	<p align="center">
-	Please wait a few seconds after hit the button.
+	Please wait a few seconds after hitting the button.
 	</p>
 	</small>
 </footer>
