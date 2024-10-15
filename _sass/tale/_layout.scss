@@ -54,7 +54,7 @@ footer,
   a {
 	@include transition(all .2s ease-out);
     color: $grey-1;
-    font-family: $serif;
+    font-family: $sans-serif;
     &:hover,
     &:focus {
       color: $my-red;
