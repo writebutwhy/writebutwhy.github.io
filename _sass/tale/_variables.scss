@@ -12,8 +12,9 @@ $code-color: #bf616a !default;
 $my-red: #DB0042 !default;
 
 // Fonts
-$sans-serif: Petrona, Arial, sans-serif !default;
-$monospaced: Proxima, monospace !default;
+$serif: Petrona, Arial, serif, !default;
+$sans-serif: Proxima, Arial, sans-serif !default;
+$monospaced: DMMono, monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
