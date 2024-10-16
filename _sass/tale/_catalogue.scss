@@ -14,7 +14,7 @@
   &-pinned {
     font-size: 14px;
     color: $default-tint;
-    font-family: $monospaced;
+    font-family: $sans-serif;
     @media (max-width: 480px) {  /* phone */
     	font-size: 12px;
     }
@@ -23,7 +23,7 @@
   &-time {
     font-size: 14px;
     color: $default-tint;
-    font-family: $monospaced;
+    font-family: $sans-serif;
     @media (max-width: 480px) {  /* phone */
     	font-size: 12px;
     }
