@@ -1,17 +1,17 @@
 # Site settings
-title:          Nhật
+title:          "Phùng Du"
 description:    ""
-baseurl:        "/write"
-url:            "https://nhatminhbui.github.io"
+baseurl:        "/"
+url:            "https://writebutwhy.github.io"
 
 # Google Analytics
 # google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Nhat Bui
-  url:          https://nhatminhbui.github.io
-  email:        nhatbui@gmx.com
+  name:         Phùng Du
+  url:          https://writebutwhy.github.io
+  email:        phungduwbw@gmx.com
 
 # Build settings
 markdown:       kramdown
